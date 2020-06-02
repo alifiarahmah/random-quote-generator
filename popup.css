@@ -1,0 +1,18 @@
+body{
+    font-family: 'Tenali Ramakrishna', sans-serif;
+}
+
+.bodi {
+    width: 260px;
+    margin: 20px 20px 20px 20px;
+}
+
+.isiquote {
+    font-size: 24px;
+}
+
+.bawah {
+    font-size: 21px;
+    margin-bottom: 10px;
+    text-align: right;
+}

@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "Random Quote Generator",
+  "version": "1.0",
+  "description": "A random quote generator to help me practice javascript pls help",
+  "browser_action": {
+    "default_title": "Random Quote Generator",
+    "default_popup": "popup.html"
+  },
+  "author": "Alifia Rahmah",
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "permissions": [
+      "declarativeContent",
+      "storage"],
+  "options_page": "options.html"
+}

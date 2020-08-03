@@ -1,6 +1,7 @@
 //generate random number trus jadi id arai
 //ambil arai dari chrome.storage.sync
 
+
 //jadiin innerHTML
 
 //coba2 dulu
